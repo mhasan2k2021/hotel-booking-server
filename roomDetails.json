@@ -1,0 +1,38 @@
+[
+  {
+    "roomId": "1",
+    "title": "This First Hotel Room",
+    "details": "The Optimus B&B is a top quality bed and breakfast in Rome near Termini Station, about 2 minutes walking far from train station.",
+    "url": "https://res.cloudinary.com/dcmgay3nl/image/upload/v1683347762/room_lqg4gi.jpg"
+  },
+  {
+    "roomId": "2",
+    "title": "This First Hotel Room",
+    "details": "The Optimus B&B is a top quality bed and breakfast in Rome near Termini Station, about 2 minutes walking far from train station.",
+    "url": "https://res.cloudinary.com/dcmgay3nl/image/upload/v1683391583/pexels-naim-benjelloun-2029722_s4ljiw.jpg"
+  },
+  {
+    "roomId": "3",
+    "title": "This Second motel room",
+    "details": "The Optimus B&B is a top quality bed and breakfast in Rome near Termini Station, about 2 minutes walking far from train station.",
+    "url": "https://res.cloudinary.com/dcmgay3nl/image/upload/v1683391659/pexels-pixabay-271619_pze9nf.jpg"
+  },
+  {
+    "roomId": "4",
+    "title": "This Third Home room",
+    "details": "The Optimus B&B is a top quality bed and breakfast in Rome near Termini Station, about 2 minutes walking far from train station.",
+    "url": "https://res.cloudinary.com/dcmgay3nl/image/upload/v1683391752/pexels-pixabay-271624_mj3b1h.jpg"
+  },
+  {
+    "roomId": "5",
+    "title": "This Fourth khawar room",
+    "details": "The Optimus B&B is a top quality bed and breakfast in Rome near Termini Station, about 2 minutes walking far from train station.",
+    "url": "https://res.cloudinary.com/dcmgay3nl/image/upload/v1683391882/pexels-pixabay-237371_yw07zs.jpg"
+  },
+  {
+    "roomId": "6",
+    "title": "This fifth Gomanor room",
+    "details": "The Optimus B&B is a top quality bed and breakfast in Rome near Termini Station, about 2 minutes walking far from train station.",
+    "url": "https://res.cloudinary.com/dcmgay3nl/image/upload/v1683391994/pexels-suhel-vba-3659683_vishbd.jpg"
+  }
+]
